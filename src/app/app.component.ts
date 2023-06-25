@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'andresjosehr-portfolio';
+  title = 'stephen-portfolio';
   
   constructor(
     private titleService: Title,
@@ -27,11 +27,11 @@ export class AppComponent implements OnInit{
     this.languageService.initLanguage()
 
 
-    this.titleService.setTitle( "José Andrés | Frontend Developer" );
+    this.titleService.setTitle( "Stephen Smyth | Full Stack Software Engineer" );
 
     this.metaService.addTags([
-      {name: 'keywords', content: 'Frontend, software, developer'},
-      {name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.'},
+      {name: 'keywords', content: 'Full stack, software, developer'},
+      {name: 'description', content: 'Self-taught programmer pivoting from leading investigations at Apple to pursue my passions in Software Engineering.'},
     ]);
     
     
