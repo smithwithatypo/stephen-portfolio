@@ -146,49 +146,49 @@
     }
   ],
 
-  "OtherProjects.Title": "Projects",
+  "OtherProjects.Title": "More projects",
   "OtherProjects.Projects": [
     {
-      "Title": "DeepDream Experiment",
-      "Description": "Investigating the effects of using a Convolutional Neural Network to augment image datasets. Increasing the amount of labeled training data without needing more images.",
-      "ghLink": "https://github.com/smithwithatypo/deepdream-experiment",
-      "demoLink": "https://github.com/smithwithatypo/deepdream-experiment",
-      "Technologies": ["Python", "TensorFlow", "Keras", "Linux"]
+      "Title": "Pokemon",
+      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
     },
     {
-      "Title": "TXST CS Student Guide",
-      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
-      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
-      "demoLink": "https://www.txstcsstudentguide.com",
-      "Technologies": ["React", "HTML & CSS", "Git"]
+      "Title": "Coming soon page",
+      "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+      "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+      "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
     },
     {
-      "Title": "Project Prioritizer App",
-      "Description": "Use the Eisenhower Matrix to prioritize your projects and ease stress when you're overwhelmed with projects.",
-      "ghLink": "https://github.com/smithwithatypo/Project-Prioritizer",
-      "demoLink": "https://github.com/smithwithatypo/Project-Prioritizer",
-      "Technologies": ["Python", "Pandas", "Matplotlib"]
+      "Title": "Four card feature section",
+      "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
     },
     {
-      "Title": "AI Study Buddy App",
-      "Description": "Using generative AI to study more efficiently with flashcards and generated images.",
-      "ghLink": "https://github.com/smithwithatypo/openai_playground",
-      "demoLink": "https://github.com/smithwithatypo/openai_playground",
-      "Technologies": ["REST API", "Python", "Flask"]
+      "Title": "Social proof section",
+      "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": ["Angular", "CSS GRID", "GIT"]
     },
     {
-      "Title": "Dell Hackathon (First Place)",
-      "Description": "Automated a complex business process with a team of 5 using Python. I handled parsing, transforming, and loading data into a stable-marriage matching algorithm.",
-      "ghLink": "https://github.com/smithwithatypo/dell_hackathon",
-      "demoLink": "https://github.com/smithwithatypo/dell_hackathon",
-      "Technologies": ["Python", "Object-Oriented", "Git"]
+      "Title": "FAQ accordion card",
+      "Description": "FAQ accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
     },
     {
-      "Title": "Automated Aquaponic Farm Experiment",
-      "Description": "Automated an intelligent, solar-powered, aquaponic farm using 7 Raspberry Pi's attempting to impact world hunger. This code kept 20+ Tilapia alive by keeping chemical levels at equillibrium. Published a peer-reviewed article.",
-      "ghLink": "https://github.com/smithwithatypo/EverGreen_code",
-      "demoLink": "https://github.com/smithwithatypo/EverGreen_code",
-      "Technologies": ["Python", "Flask", "Raspberry Pi", "Linux"]
+      "Title": "Profile card",
+      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
     }
   ],
   "Contact.Pretitle": "What’s Next",
