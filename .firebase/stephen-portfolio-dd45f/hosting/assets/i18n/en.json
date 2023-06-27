@@ -149,18 +149,18 @@
   "OtherProjects.Title": "Projects",
   "OtherProjects.Projects": [
     {
-      "Title": "TXST CS Student Guide",
-      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
-      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
-      "demoLink": "https://www.txstcsstudentguide.com",
-      "Technologies": ["React", "HTML & CSS", "NodeJS", "Git"]
-    },
-    {
       "Title": "DeepDream Experiment",
       "Description": "Investigating the effects of using a Convolutional Neural Network to augment image datasets. Increasing the amount of labeled training data without needing more images.",
       "ghLink": "https://github.com/smithwithatypo/deepdream-experiment",
       "demoLink": "https://github.com/smithwithatypo/deepdream-experiment",
       "Technologies": ["Python", "TensorFlow", "Keras", "Linux"]
+    },
+    {
+      "Title": "TXST CS Student Guide",
+      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
+      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
+      "demoLink": "https://www.txstcsstudentguide.com",
+      "Technologies": ["React", "HTML & CSS", "Git"]
     },
     {
       "Title": "Project Prioritizer App",
