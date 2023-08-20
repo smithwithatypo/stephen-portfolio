@@ -13,7 +13,7 @@
   "AboutMe.Title": "About me",
 
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>4 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, underpriveledged students, and I’m currently working on a tool to help mental health professionals.",
+    "In my <span class='underline'>4 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, underpriveledged students, and I’m currently working on a project to help improve relationships between companies and high quality talent.",
     "My <span class='underline'>leadership skills</span> have been honed through mentorship gained from 6 years leading projects at Apple, leading two student clubs with IEEE and Google, and founding a startup. My <span class='underline'>software skills</span> can be attributed to research scholarships allowing me to contribute to the fields of Resilient Systems and Machine Learning.",
     "My goal is to improve my software engineering skills <span class='underline'>so I can help more people</span>."
   ],
@@ -25,10 +25,8 @@
       "Title": "Software Engineering Intern",
       "Date": "Summer 2023",
       "Description": [
-        "Contributed to the engineering team that owns all order processes between Dell.com and our global factories",
-        "Saved our LATAM team over 30 hours per week by programming a bulk-order script for a common order block",
-        "Improved accessibility of my solution by converting it from Python to Typescript/Angular/Node",
-        "Wrote unit and integration tests while contributing to an Agile team environment using Git"
+        "Completed 2 projects for the Site Reliability Engineering team who handles order processing issues for Dell.com",
+        "Tested and deployed my solutions to production, saving the company an average of 13 hours per week per person of manual work and are now used by teams in AMR, LATAM, APJ, and EMEA. ( Python, Angular, Node, SQL, and NoSQL )"
       ]
     },
     {
@@ -38,7 +36,7 @@
       "Description": [
         "Programmed 4 ETL data pipelines for Europe and Asia markets, resulting in improved reliability and up-to-dateness of the database holding 300 million customer records, impacting both data strategy and sales teams",
         "Conducted thorough testing and worked with cross-functional teams to ensure seamless deployment",
-        "Won the annual intern hackathon by automating a complex business process"
+        "Won the annual intern hackathon by automating a manual business process"
       ]
     },
     {
@@ -46,9 +44,10 @@
       "Title": "Machine Learning Researcher",
       "Date": "October 2022 - Present",
       "Description": [
-        "Investigated the effects of using a Convolutional Neural Network to augment image datasets",
-        "Achieved custom image augmentation by writing Python code to read images, convert them to tensors, and augment them using random combinations of overexcited concatenation layers of the InceptionV3 CNN",
-        "Automated the data processing and model training using 8 Nvidia GPUs in parallel on a remote Linux server"
+        "Contributed research to a lab that uses Machine Learning to impact Medicine",
+        "I investigated a deep learning technique to increase the accuracy of image classification on small datasets",
+        "Achieved custom image augmentation by writing Python code to read images, convert them to tensors, and augment them using random combinations of overexcited concatenation layers of the InceptionV3 CNN.",
+        "Automated data processing and model training using 8 Nvidia GPUs in parallel on a remote Linux server"
       ]
     },
     {
@@ -56,8 +55,7 @@
       "Title": "Teaching Assistant",
       "Date": "August 2022 - May 2023",
       "Description": [
-        "Taught students how to design, code, and deploy full stack applications with a Senior Software Engineer from Meta's Engineer In Residence Program.",
-        "Saved hundreds of work hours by writing unit tests in Python to automate grading"
+        "In partnership with Meta’s Software Engineer in Residence, I taught 80 upperclassmen full stack development"
       ]
     },
     {
@@ -149,18 +147,18 @@
   "OtherProjects.Title": "Projects",
   "OtherProjects.Projects": [
     {
+      "Title": "TXST CS Student Guide",
+      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
+      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
+      "demoLink": "https://www.txstcsstudentguide.com",
+      "Technologies": ["React", "HTML & CSS", "NodeJS", "Git"]
+    },
+    {
       "Title": "DeepDream Experiment",
       "Description": "Investigating the effects of using a Convolutional Neural Network to augment image datasets. Increasing the amount of labeled training data without needing more images.",
       "ghLink": "https://github.com/smithwithatypo/deepdream-experiment",
       "demoLink": "https://github.com/smithwithatypo/deepdream-experiment",
       "Technologies": ["Python", "TensorFlow", "Keras", "Linux"]
-    },
-    {
-      "Title": "TXST CS Student Guide",
-      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
-      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
-      "demoLink": "https://www.txstcsstudentguide.com",
-      "Technologies": ["React", "HTML & CSS", "Git"]
     },
     {
       "Title": "Project Prioritizer App",
@@ -193,6 +191,6 @@
   ],
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I'm happy to work together on projects or learn about job opportunities or collaborate on volunteer projects that make the world a better place.",
+  "Contact.Content": "I'm happy to work together on projects or learn about job opportunities or collaborate on projects that make the world a better place.",
   "Contact.Btn": "Say Hello"
 }
