@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1718164601594,
+  "timestamp": 1728316971549,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.31cb51504c44a6fe.js",
+        "/main.5e44a2af8df15add.js",
         "/manifest.webmanifest",
         "/polyfills.869a05a746baa8e7.js",
         "/runtime.4ad7a1d062b8043c.js",
@@ -253,7 +253,7 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
     "/assets/i18n/en copy.json": "8c756b4c38bf6fb6fe8c7185306ee630c42c8f24",
-    "/assets/i18n/en.json": "eaef7b3c5c1def2ec2e9373656da951bd491db75",
+    "/assets/i18n/en.json": "20400f3eb811dc5fd161f82b4213ee03e2f1aad2",
     "/assets/i18n/es.json": "5aeb9b2645e1407348150cebb1a15aead974e7ed",
     "/assets/icons/cv plantilla.pdf": "566ecef3024cc9a771c7c80420a3726793a1e26d",
     "/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
@@ -322,8 +322,8 @@
     "/fa-solid-900.d5b0a3566b352ee9.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
     "/fa-solid-900.e67670b0779338ff.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
     "/favicon.ico": "216416b0e8efb71cc8e66e11cc40baf206704576",
-    "/index.html": "ce25fa5a1f5168bb7b0290fbcabd601bdb7fd1c8",
-    "/main.31cb51504c44a6fe.js": "0a5b07d1ba40a07d386483db44516700150e1c0e",
+    "/index.html": "c7855f31bf4a008787ac57d17b7a35473a87d647",
+    "/main.5e44a2af8df15add.js": "93c2d9edcc527d03f5696dddff99c19e328bb5e0",
     "/manifest.webmanifest": "d9e92565b3be092fe728cd4c269af5e866223f8f",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.869a05a746baa8e7.js": "ea56145708a42a84cc79b7658d30b5a77453b2be",

@@ -6,56 +6,95 @@
   "Header.cvBtn": "Resume",
   "Header.cvName": "cv-stephensmyth.pdf",
 
-  "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I am a self-taught programmer pivoting from leading investigations at Apple to pursue my passions in Software Engineering. I've been <span class='underline'>developing for 4 years</span> and am currently a full-time student studying Computer Science graduating December 2024. <span class='underline'>I love helping people</span> and I build tools using Python, Javascript, Machine Learning, and Cloud.",
+  "Banner.Pretitle": "Hi! My name is",
+  "Banner.Description": "I'm a Computer Science student pivoting careers from leading projects at Apple to pursue my fascination with Software Engineering. I've been <span class='underline'>developing for 5 years</span>, and currently leading two open source projects while I finish my CS degree this May 2025. <span class='underline'>I love helping people</span> and I build tools using Typescript, Python, and various AI/ML techniques.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
 
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>4 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, underpriveledged students, and I’m currently working on a project to help improve relationships between companies and high quality talent.",
-    "My <span class='underline'>leadership skills</span> have been honed through mentorship gained from 6 years leading projects at Apple, leading two student clubs with IEEE and Google, and founding a startup. My <span class='underline'>software skills</span> can be attributed to research scholarships allowing me to contribute to the fields of Resilient Systems and Machine Learning.",
-    "My goal is to improve my software engineering skills <span class='underline'>so I can help more people</span>."
+    "In my <span class='underline'>5 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, and underpriveledged students. I’m currently leading two open source projects building an AI-native teaching assistant being used at Texas State University, and a mobile app being used by Meals On Wheels.",
+    "My <span class='underline'>leadership skills</span> have been honed by incredible mentors while leading hundreds of projects at Apple, leading two student clubs with IEEE and Google, and founding/dissolving two startups. My <span class='underline'>software skills</span> can be attributed to years in academic research, 3 internships, and building dozens of personal projects. I'm very comfortable in novel problem spaces.",
+    "My goal is to cultivate my engineering and leadership skills so I can help more people."
   ],
 
-  "Experience.Title": "Experience",
+  "Experience.Title": "Work Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Dell (1)",
-      "Title": "Software Engineering Intern",
-      "Date": "Summer 2023",
+      "Tab": "TXST",
+      "Title": "Lead Software Engineer - AI Teaching Assistant",
+      "Date": "Jan 2023 - Present",
       "Description": [
-        "Completed 2 projects for the Site Reliability Engineering team who handles order processing issues for Dell.com",
-        "Tested and deployed my solutions to production, saving the company an average of 13 hours per week per person of manual work and are now used by teams in AMR, LATAM, APJ, and EMEA. ( Python, Angular, Node, SQL, and NoSQL )"
+        "Improved learning experiences for Computer Science students and faculty by creating an AI-native web app",
+        "Designed and deployed using Angular, Node, Express, PostgreSQL, Docker, OpenAI, and Railway for CICD",
+        "Interviewed, trained, and led a small team to deliver features using Agile and SDLC strategies in Jira",
+        "Implemented user feedback from students and professors using this in college courses"
       ]
     },
     {
-      "Tab": "Dell (2)",
+      "Tab": "TXST",
+      "Title": "Software Engineer",
+      "Date": "Aug 2024 - Present",
+      "Description": [
+        "Reduced food insecurity by coding an open-source, HIPAA compliant mobile app for Meals On Wheels",
+        "Worked on a team to implement features from stakeholder meetings using React-Native, Django, LDAP, PostgreSQL, Git, and an external Salesforce DB from Meals on Wheels."
+      ]
+    },
+    {
+      "Tab": "Dell",
+      "Title": "Software Engineering Intern",
+      "Date": "Summer 2024",
+      "Description": [
+        "Sped up contract negotiations for enterprise sales ($2.4 billion) using large language models",
+        "Deployed an internal app using Docker, Kubernetes, Langchain, Streamlit, and locally hosted LLMs",
+        "Led discussions on feasibility of training our own model versus using RAG, CoT, 0-shot, or fine-tuning",
+        "Extracted action items from user feedback surveys on an existing app. Used Python/Spacy and GPT-4"
+      ]
+    },
+    {
+      "Tab": "iD Tech",
+      "Title": "Online Instructor",
+      "Date": "Aug 2023 - Jan 2024",
+      "Description": [
+        "Taught kids Python, Machine Learning, and Web Dev"
+      ]
+    },
+    {
+      "Tab": "Dell",
+      "Title": "Software Engineering Intern",
+      "Date": "Summer 2023",
+      "Description": [
+        "Reduced manual work for order support teams by combining database lookups into one tool",
+        "Saved 12 hours/week/person by automating the process of querying 7 different SQL and NoSQL databases from different regions and different generations of legacy, while elegantly handling errors"
+      ]
+    },
+    {
+      "Tab": "Dell",
       "Title": "Software Engineering Intern",
       "Date": "Summer 2022",
       "Description": [
-        "Programmed 4 ETL data pipelines for Europe and Asia markets, resulting in improved reliability and up-to-dateness of the database holding 300 million customer records, impacting both data strategy and sales teams",
-        "Conducted thorough testing and worked with cross-functional teams to ensure seamless deployment",
-        "Won the annual intern hackathon by automating a manual business process"
+        "Increased integrity of 300 million customer records by writing tests for a streaming data pipeline",
+        "Replaced a low-code ETL data pipeline with custom C# code reading from a Kafka pub/sub queue and loading the structured data into an ElasticSearch data warehouse for analytics teams to ingest",
+        "Won First Place in the annual intern hackathon by automating the months-long process of matching of new-hires to managers/teams through interviews and surveys"
       ]
     },
     {
       "Tab": "IMICS Lab",
       "Title": "Machine Learning Researcher",
-      "Date": "October 2022 - Present",
+      "Date": "October 2022 - May 2023",
       "Description": [
-        "Contributed research to a lab that uses Machine Learning to impact Medicine",
-        "I investigated a deep learning technique to increase the accuracy of image classification on small datasets",
-        "Achieved custom image augmentation by writing Python code to read images, convert them to tensors, and augment them using random combinations of overexcited concatenation layers of the InceptionV3 CNN.",
+        "Classified images of rare medical diseases by training and tuning a convolutional neural net",
+        "Investigated Stochastic Gradient Ascent (Google DeepDream) as a novel way to augment image datasets to increase training data without increasing cost of human labeling",
+        "Achieved custom image augmentation by coding Python to read images, convert them to tensors, and augment them using random combinations of overexcited concatenation layers of the InceptionV3 CNN.",
         "Automated data processing and model training using 8 Nvidia GPUs in parallel on a remote Linux server"
       ]
     },
     {
-      "Tab": "TXST CS Dept",
-      "Title": "Teaching Assistant",
+      "Tab": "TXST",
+      "Title": "Teaching Assistant - CS3398",
       "Date": "August 2022 - May 2023",
       "Description": [
-        "In partnership with Meta’s Software Engineer in Residence, I taught 80 upperclassmen full stack development"
+        "Taught 80 students full-stack software engineering under an Engineer-in-Residence from Meta"
       ]
     },
     {
@@ -63,8 +102,8 @@
       "Title": "Software Engineering Researcher",
       "Date": "January 2021 - December 2021",
       "Description": [
-        "Automated an intelligent, solar-powered, aquaponic farm using 7 microcomputers.",
-        "Published peer-reviewed articles and presented at 4 Conferences."
+        "Created a cloud with 7 raspberry pi’s to maintain homeostasis across plants and fish using solar power.",
+        "Published peer-reviewed research on resilient systems using FMEA and Digital Twin."
       ]
     },
     {
@@ -73,12 +112,17 @@
       "Date": "December 2016 - December 2020",
       "Description": [
         "Taught myself Python and Javascript to automate my role and take on more responsibilities",
-        "Saved Apple $1Billion every year by coaching and training a team of 140 fraud investigators",
-        "Prepared for and conducted investigations often involving personal interviews of criminals",
-        "Led over 250 volunteer events to connect employees with nonprofits by directing a team of 50 Apple volunteer leaders"
+        "Saved Apple $1Billion every year by coaching a team of 140 fraud investigators",
+        "Conducted investigations involving phone interviewing of criminals",
+        "Led over 250 community service events to connect employees with nonprofits"
       ]
     }
   ],
+
+
+
+
+
 
   "FeatureProjects.Title": "My projects",
   "FeatureProjects.Label": "Featured Project",
@@ -144,8 +188,85 @@
     }
   ],
 
-  "OtherProjects.Title": "Projects",
+
+
+
+
+
+
+  "OtherProjects.Title": "Public Projects",
   "OtherProjects.Projects": [
+    
+    {
+      "Title": "AI Teaching Assistant - Frontend",
+      "Description": "An AI teaching assistant available 24/7 for CS students learning data structures and algorithms.",
+      "ghLink": "https://github.com/smithwithatypo/gpt_research_frontend",
+      "demoLink": "https://gptresearchfrontend.web.app/evaluation",
+      "Technologies": ["Angular", "Typescript", "deployed on Firebase"]
+    },
+    {
+      "Title": "AI Teaching Assistant - Backend",
+      "Description": "An AI teaching assistant available 24/7 for CS students learning data structures and algorithms.",
+      "ghLink": "https://github.com/smithwithatypo/gpt_research_backend",
+      "demoLink": "https://gptresearchfrontend.web.app/evaluation",
+      "Technologies": ["Node", "Express", "Typescript", "Docker", "PostgreSQL", "deployed on Railway"]
+    },
+    {
+      "Title": "ComputerSmyth.com",
+      "Description": "A simple landing page for people asking if I do consulting or tutoring.",
+      "ghLink": "https://www.computersmyth.com",
+      "demoLink": "https://www.computersmyth.com",
+      "Technologies": ["Google Sites", "Stripe"]
+    },
+    {
+      "Title": "Docker Compose Playground",
+      "Description": "A tool for Computer Science students to practice with Docker Compose using a Frontend, Backend, and SQL database.",
+      "ghLink": "https://github.com/smithwithatypo/docker-compose-playground",
+      "demoLink": "https://github.com/smithwithatypo/docker-compose-playground",
+      "Technologies": ["Docker", "Caddy", "Angular", "Node", "Express", "PostgreSQL"]
+    },
+    {
+      "Title": "Algo Training",
+      "Description": "A place to practice implementing algorithms from memory for technical interview practice.",
+      "ghLink": "https://github.com/smithwithatypo/algo_training",
+      "demoLink": "https://github.com/smithwithatypo/algo_training",
+      "Technologies": ["Python", "Pytest"]
+    },
+    {
+      "Title": "GPT Research Testing",
+      "Description": "A tool to quickly test variations of prompts, their outputs, and write to a Supabase database.",
+      "ghLink": "https://github.com/smithwithatypo/gpt_research_test_suite",
+      "demoLink": "https://github.com/smithwithatypo/gpt_research_test_suite",
+      "Technologies": ["Python", "Supabase"]
+    },
+    {
+      "Title": "Python Algorithm Code Snippets",
+      "Description": "A tool to study for technical interviews on-the-go.",
+      "ghLink": "https://github.com/smithwithatypo/python-algorithm-snippets",
+      "demoLink": "https://algo.computersmyth.com",
+      "Technologies": ["Angular", "deployed on Firebase"]
+    },
+    {
+      "Title": "PEAN Template - Frontend",
+      "Description": "A template for using PEAN: Postgresql, Express, Angular, and Node.",
+      "ghLink": "https://github.com/smithwithatypo/PEAN-template-frontend",
+      "demoLink": "https://github.com/smithwithatypo/PEAN-template-frontend",
+      "Technologies": ["Angular"]
+    },
+    {
+      "Title": "PEAN Template - Backend",
+      "Description": "A template for using PEAN: Postgresql, Express, Angular, and Node.",
+      "ghLink": "https://github.com/smithwithatypo/PEAN-template-backend",
+      "demoLink": "https://github.com/smithwithatypo/PEAN-template-backend",
+      "Technologies": ["Postgresql", "Express", "Node"]
+    },
+    {
+      "Title": "TXST CS Student Guide",
+      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
+      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
+      "demoLink": "https://www.txstcsstudentguide.com",
+      "Technologies": ["React", "HTML & CSS", "NodeJS", "Git"]
+    },
     {
       "Title": "TXST CS Student Guide",
       "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
@@ -161,36 +282,45 @@
       "Technologies": ["Python", "TensorFlow", "Keras", "Linux"]
     },
     {
-      "Title": "Project Prioritizer App",
-      "Description": "Use the Eisenhower Matrix to prioritize your projects and ease stress when you're overwhelmed with projects.",
+      "Title": "Project Prioritizer App - Angular",
+      "Description": "Prioritize your projects using the Eisenhower Matrix.",
+      "ghLink": "https://github.com/smithwithatypo/project_prioritizer_angular",
+      "demoLink": "https://pp.computersmyth.com",
+      "Technologies": ["Angular", "deployed on Firebase"]
+    },
+    {
+      "Title": "Project Prioritizer App - Python/Pandas",
+      "Description": "Prioritize your projects using the Eisenhower Matrix.",
       "ghLink": "https://github.com/smithwithatypo/Project-Prioritizer",
       "demoLink": "https://github.com/smithwithatypo/Project-Prioritizer",
-      "Technologies": ["Python", "Pandas", "Matplotlib"]
+      "Technologies": ["Python", "Pandas"]
     },
     {
       "Title": "AI Study Buddy App",
-      "Description": "Using generative AI to study more efficiently with flashcards and generated images.",
+      "Description": "Us genAI to study more efficiently with flashcards and generated images.",
       "ghLink": "https://github.com/smithwithatypo/openai_playground",
       "demoLink": "https://github.com/smithwithatypo/openai_playground",
       "Technologies": ["REST API", "Python", "Flask"]
     },
     {
-      "Title": "Dell Hackathon (First Place)",
-      "Description": "Automated a complex business process with a team of 5 using Python. I handled parsing, transforming, and loading data into a stable-marriage matching algorithm.",
+      "Title": "Dell Intern Hackathon (First Place)",
+      "Description": "Automated a business process on a team of 5 interns. I handled parsing, transforming, and loading survey data into a stable-marriage matching algorithm.",
       "ghLink": "https://github.com/smithwithatypo/dell_hackathon",
       "demoLink": "https://github.com/smithwithatypo/dell_hackathon",
       "Technologies": ["Python", "Object-Oriented", "Git"]
     },
     {
       "Title": "Automated Aquaponic Farm Experiment",
-      "Description": "Automated an intelligent, solar-powered, aquaponic farm using 7 Raspberry Pi's attempting to impact world hunger. This code kept 20+ Tilapia alive by keeping chemical levels at equillibrium. Published a peer-reviewed article.",
+      "Description": "Automated an intelligent, solar-powered, aquaponic farm using 7 Raspberry Pi's attempting to impact world hunger. This code kept 20+ Tilapia alive by keeping chemical levels at equillibrium.",
       "ghLink": "https://github.com/smithwithatypo/EverGreen_code",
       "demoLink": "https://github.com/smithwithatypo/EverGreen_code",
-      "Technologies": ["Python", "Flask", "Raspberry Pi", "Linux"]
+      "Technologies": ["Python", "Raspberry Pi", "Linux"]
     }
   ],
+
+
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I'm happy to work together on projects or learn about job opportunities or collaborate on projects that make the world a better place.",
+  "Contact.Content": "I'm happy to learn about your work or collaborate on projects that make the world a better place.",
   "Contact.Btn": "Say Hello"
 }
