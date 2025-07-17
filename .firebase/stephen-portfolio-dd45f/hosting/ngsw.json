@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1736559346348,
+  "timestamp": 1752762801504,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -253,7 +253,7 @@
     "/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
     "/assets/i18n/en copy.json": "8c756b4c38bf6fb6fe8c7185306ee630c42c8f24",
-    "/assets/i18n/en.json": "30c451bd5a94b6a366ea9ff6d83ae06e875e2f3a",
+    "/assets/i18n/en.json": "5a66f30fc6f4eeb1da48d17330cfb6804d4deee8",
     "/assets/i18n/es.json": "5aeb9b2645e1407348150cebb1a15aead974e7ed",
     "/assets/icons/cv plantilla.pdf": "566ecef3024cc9a771c7c80420a3726793a1e26d",
     "/assets/icons/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",

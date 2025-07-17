@@ -7,13 +7,13 @@
   "Header.cvName": "cv-stephensmyth.pdf",
 
   "Banner.Pretitle": "Hi! My name is",
-  "Banner.Description": "I'm a Computer Science student pivoting from a career leading projects at Apple to pursue my fascination with software's ability to amplify social impact. I've been <span class='underline'>developing for 5 years</span>, and currently lead two open source projects while I finish my CS degree in May 2025. <span class='underline'>I love helping people</span> and I build tools using Typescript, Python, and various AI/ML techniques.",
+  "Banner.Description": "I’m a passionate leader transitioning from investigating fraud at Apple into software now after putting myself through college. <span class='underline'>4 years of coding</span> in research labs and internships have taught me how to quickly throw together MVP’s to elicit feedback and also how to carefully craft reliable software with multiple teams to impact millions of customers.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
 
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>5 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, and underpriveledged students. I’m currently leading two open source projects building an AI-native teaching assistant being used at Texas State University, and a mobile app being used by Meals On Wheels.",
+    "In my <span class='underline'>4 years developing software</span>, I’ve made life easier for teammates at Apple and Dell, while spending my free time coding tools to amplify the efforts of the Center for Child Protection, local artists, and underpriveledged students. I’m currently leading two open source projects building an AI-native teaching assistant being used at Texas State University, and a mobile app being used by Meals On Wheels.",
     "My <span class='underline'>leadership skills</span> have been honed by incredible mentors while leading hundreds of projects at Apple, leading two student clubs with IEEE and Google, and founding/dissolving two startups. My <span class='underline'>software skills</span> can be attributed to years in academic research, 3 internships, and building dozens of personal projects. I'm very comfortable in novel problem spaces.",
     "My goal is to cultivate my engineering and leadership skills so I can help more people."
   ],
@@ -23,7 +23,7 @@
     {
       "Tab": "TXST",
       "Title": "Lead Software Engineer - AI Teaching Assistant",
-      "Date": "Jan 2023 - Present",
+      "Date": "Jan 2023 - March 2025",
       "Description": [
         "Improved learning experiences for Computer Science students and faculty by creating an AI-native web app",
         "Designed and deployed using Angular, Node, Express, PostgreSQL, Docker, OpenAI, and Railway for CICD",
@@ -34,7 +34,7 @@
     {
       "Tab": "TXST",
       "Title": "Software Engineer",
-      "Date": "Aug 2024 - Present",
+      "Date": "Aug 2024 - May 2025",
       "Description": [
         "Reduced food insecurity by coding an open-source, HIPAA compliant mobile app for Meals On Wheels",
         "Worked on a team to implement features from stakeholder meetings using React-Native, Django, LDAP, PostgreSQL, Git, and an external Salesforce DB from Meals on Wheels."
@@ -259,13 +259,6 @@
       "ghLink": "https://github.com/smithwithatypo/PEAN-template-backend",
       "demoLink": "https://github.com/smithwithatypo/PEAN-template-backend",
       "Technologies": ["Postgresql", "Express", "Node"]
-    },
-    {
-      "Title": "TXST CS Student Guide",
-      "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
-      "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
-      "demoLink": "https://www.txstcsstudentguide.com",
-      "Technologies": ["React", "HTML & CSS", "NodeJS", "Git"]
     },
     {
       "Title": "TXST CS Student Guide",
