@@ -69,7 +69,7 @@ export class HeaderComponent implements OnInit {
 
       // Open a new window with the CV
       // window.open(url + "/../assets/cv/" + this.cvName, "_blank");
-      window.open("https://drive.google.com/file/d/1lF0WGT1Lh16lbx-nYSk7QfGOxpBErCnv/view?usp=sharing");
+      window.open("https://drive.google.com/file/d/1t1QMes9oIqQWGlRhdxYIiU4YKDF81O8_/view?usp=sharing");
     })
 
   }
