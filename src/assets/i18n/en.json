@@ -22,33 +22,23 @@
   "Experience.Jobs": [
     {
       "Tab": "TXST",
-      "Title": "Lead Software Engineer - AI Teaching Assistant",
-      "Date": "Jan 2023 - March 2025",
+      "Title": "Software Engineering Researcher in 4 research labs",
+      "Date": "Jan 2021 - March 2025",
       "Description": [
-        "Improved learning experiences for Computer Science students and faculty by creating an AI-native web app",
-        "Designed and deployed using Angular, Node, Express, PostgreSQL, Docker, OpenAI, and Railway for CICD",
-        "Interviewed, trained, and led a small team to deliver features using Agile and SDLC strategies in Jira",
-        "Implemented user feedback from students and professors using this in college courses"
-      ]
-    },
-    {
-      "Tab": "TXST",
-      "Title": "Software Engineer",
-      "Date": "Aug 2024 - May 2025",
-      "Description": [
-        "Reduced food insecurity by coding an open-source, HIPAA compliant mobile app for Meals On Wheels",
-        "Worked on a team to implement features from stakeholder meetings using React-Native, Django, LDAP, PostgreSQL, Git, and an external Salesforce DB from Meals on Wheels."
+        "1. Improved interview prep for engineers using genAI and research-backed pedagogical techniques",
+        "2. Increased food security by contributing to a HIPAA compliant mobile app for Meals On Wheels",
+        "3. Investigated new data augmentation techniques for ML using Stochastic Gradient Ascent and tuning CNN’s",
+        "4. Stabilized living conditions for dozens of fish and plants using solar power and a cloud of Raspberry Pi’s"
       ]
     },
     {
       "Tab": "Dell",
-      "Title": "Software Engineering Intern",
-      "Date": "Summer 2024",
+      "Title": "Software Engineering Intern for 3 Summers",
+      "Date": "Summer 2022, 2023, 2024",
       "Description": [
-        "Sped up contract negotiations for enterprise sales ($2.4 billion) using large language models",
-        "Deployed an internal app using Docker, Kubernetes, Langchain, Streamlit, and locally hosted LLMs",
-        "Led discussions on feasibility of training our own model versus using RAG, CoT, 0-shot, or fine-tuning",
-        "Extracted action items from user feedback surveys on an existing app. Used Python/Spacy and GPT-4"
+        "1. Accelerated a legal process in a $2.4 Billion enterprise sales pipeline using AI / NLP, Python, and Kubernetes",
+        "2. Saved global teams 12 hours/week/person by combining 7 different database lookups into one app",
+        "3. Increased datalake integrity of 300 million customer records by writing tests for a streaming data pipeline"      
       ]
     },
     {
@@ -60,50 +50,12 @@
       ]
     },
     {
-      "Tab": "Dell",
-      "Title": "Software Engineering Intern",
-      "Date": "Summer 2023",
-      "Description": [
-        "Reduced manual work for order support teams by combining database lookups into one tool",
-        "Saved 12 hours/week/person by automating the process of querying 7 different SQL and NoSQL databases from different regions and different generations of legacy, while elegantly handling errors"
-      ]
-    },
-    {
-      "Tab": "Dell",
-      "Title": "Software Engineering Intern",
-      "Date": "Summer 2022",
-      "Description": [
-        "Increased integrity of 300 million customer records by writing tests for a streaming data pipeline",
-        "Replaced a low-code ETL data pipeline with custom C# code reading from a Kafka pub/sub queue and loading the structured data into an ElasticSearch data warehouse for analytics teams to ingest",
-        "Won First Place in the annual intern hackathon by automating the months-long process of matching of new-hires to managers/teams through interviews and surveys"
-      ]
-    },
-    {
-      "Tab": "IMICS Lab",
-      "Title": "Machine Learning Researcher",
-      "Date": "October 2022 - May 2023",
-      "Description": [
-        "Classified images of rare medical diseases by training and tuning a convolutional neural net",
-        "Investigated Stochastic Gradient Ascent (Google DeepDream) as a novel way to augment image datasets to increase training data without increasing cost of human labeling",
-        "Achieved custom image augmentation by coding Python to read images, convert them to tensors, and augment them using random combinations of overexcited concatenation layers of the InceptionV3 CNN.",
-        "Automated data processing and model training using 8 Nvidia GPUs in parallel on a remote Linux server"
-      ]
-    },
-    {
       "Tab": "TXST",
-      "Title": "Teaching Assistant - CS3398",
+      "Title": "Teaching Assistant for Software Engineering",
       "Date": "August 2022 - May 2023",
       "Description": [
-        "Taught 80 students full-stack software engineering under an Engineer-in-Residence from Meta"
-      ]
-    },
-    {
-      "Tab": "Evergreen Lab",
-      "Title": "Software Engineering Researcher",
-      "Date": "January 2021 - December 2021",
-      "Description": [
-        "Created a cloud with 7 raspberry pi’s to maintain homeostasis across plants and fish using solar power.",
-        "Published peer-reviewed research on resilient systems using FMEA and Digital Twin."
+        "Taught 80 students full-stack software engineering under an Engineer-in-Residence from Meta",
+        "We built apps using Flask, React, and PostgreSQL deployed to Fly.io"
       ]
     },
     {
@@ -112,9 +64,9 @@
       "Date": "December 2016 - December 2020",
       "Description": [
         "Taught myself Python and Javascript to automate my role and take on more responsibilities",
-        "Saved Apple $1Billion every year by coaching a team of 140 fraud investigators",
-        "Conducted investigations involving phone interviewing of criminals",
-        "Led over 250 community service events to connect employees with nonprofits"
+        "Saved $1 billion/year by leading fraud investigations and training teams in North America",
+        "Solved leadership’s biggest pain point by creating a database of tribal knowledge from 20 top performers",
+        "Organized 250 community service events for Apple in my spare project time"
       ]
     }
   ],
@@ -194,7 +146,7 @@
 
 
 
-  "OtherProjects.Title": "Public Projects",
+  "OtherProjects.Title": "Highlighted Projects",
   "OtherProjects.Projects": [
     
     {
