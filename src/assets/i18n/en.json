@@ -150,22 +150,36 @@
   "OtherProjects.Projects": [
     
     {
+      "Title": "Learn French with AI - Frontend",
+      "Description": "Simple way to learn French with generative AI.",
+      "ghLink": "https://github.com/smithwithatypo/achilles-frontend",
+      "demoLink": "https://achilles-frontend-production.up.railway.app",
+      "Technologies": ["React", "Vite", "Shadcn", "Tailwind CSS", "Railway"]
+    },
+    {
+      "Title": "Learn French with AI - Frontend",
+      "Description": "Simple way to learn French with generative AI.",
+      "ghLink": "https://github.com/smithwithatypo/achilles-backend",
+      "demoLink": "https://achilles-frontend-production.up.railway.app",
+      "Technologies": ["Go", "Docker", "Railway"]
+    },
+    {
       "Title": "AI Teaching Assistant - Frontend",
-      "Description": "An AI teaching assistant available 24/7 for CS students learning data structures and algorithms.",
+      "Description": "An AI teaching assistant available 24/7 for students to learn data structures and algorithms.",
       "ghLink": "https://github.com/smithwithatypo/gpt_research_frontend",
       "demoLink": "https://gptresearchfrontend.web.app/evaluation",
-      "Technologies": ["Angular", "Typescript", "deployed on Firebase"]
+      "Technologies": ["Angular", "Firebase"]
     },
     {
       "Title": "AI Teaching Assistant - Backend",
-      "Description": "An AI teaching assistant available 24/7 for CS students learning data structures and algorithms.",
+      "Description": "An AI teaching assistant available 24/7 for students to learn data structures and algorithms.",
       "ghLink": "https://github.com/smithwithatypo/gpt_research_backend",
       "demoLink": "https://gptresearchfrontend.web.app/evaluation",
-      "Technologies": ["Node", "Express", "Typescript", "Docker", "PostgreSQL", "deployed on Railway"]
+      "Technologies": ["Node", "Express", "Docker", "PostgreSQL", "Railway"]
     },
     {
       "Title": "ComputerSmyth.com",
-      "Description": "A simple landing page for people asking if I do consulting or tutoring.",
+      "Description": "A collection of free apps and templates I've built.",
       "ghLink": "https://www.computersmyth.com",
       "demoLink": "https://www.computersmyth.com",
       "Technologies": ["Google Sites", "Stripe"]
@@ -196,7 +210,7 @@
       "Description": "A tool to study for technical interviews on-the-go.",
       "ghLink": "https://github.com/smithwithatypo/python-algorithm-snippets",
       "demoLink": "https://algo.computersmyth.com",
-      "Technologies": ["Angular", "deployed on Firebase"]
+      "Technologies": ["Angular", "Firebase"]
     },
     {
       "Title": "PEAN Template - Frontend",
@@ -217,21 +231,21 @@
       "Description": "A resource for Texas State University Computer Science students to enrich their university experience and prepare them for job hunts.",
       "ghLink": "https://github.com/smithwithatypo/txst_cs_guide",
       "demoLink": "https://www.txstcsstudentguide.com",
-      "Technologies": ["React", "HTML & CSS", "NodeJS", "Git"]
+      "Technologies": ["React", "Node"]
     },
     {
       "Title": "DeepDream Experiment",
       "Description": "Investigating the effects of using a Convolutional Neural Network to augment image datasets. Increasing the amount of labeled training data without needing more images.",
       "ghLink": "https://github.com/smithwithatypo/deepdream-experiment",
       "demoLink": "https://github.com/smithwithatypo/deepdream-experiment",
-      "Technologies": ["Python", "TensorFlow", "Keras", "Linux"]
+      "Technologies": ["Python", "TensorFlow"]
     },
     {
       "Title": "Project Prioritizer App - Angular",
       "Description": "Prioritize your projects using the Eisenhower Matrix.",
       "ghLink": "https://github.com/smithwithatypo/project_prioritizer_angular",
       "demoLink": "https://pp.computersmyth.com",
-      "Technologies": ["Angular", "deployed on Firebase"]
+      "Technologies": ["Angular", "Firebase"]
     },
     {
       "Title": "Project Prioritizer App - Python/Pandas",
@@ -245,27 +259,27 @@
       "Description": "Us genAI to study more efficiently with flashcards and generated images.",
       "ghLink": "https://github.com/smithwithatypo/openai_playground",
       "demoLink": "https://github.com/smithwithatypo/openai_playground",
-      "Technologies": ["REST API", "Python", "Flask"]
+      "Technologies": ["Python", "Flask"]
     },
     {
       "Title": "Dell Intern Hackathon (First Place)",
       "Description": "Automated a business process on a team of 5 interns. I handled parsing, transforming, and loading survey data into a stable-marriage matching algorithm.",
       "ghLink": "https://github.com/smithwithatypo/dell_hackathon",
       "demoLink": "https://github.com/smithwithatypo/dell_hackathon",
-      "Technologies": ["Python", "Object-Oriented", "Git"]
+      "Technologies": ["Python"]
     },
     {
       "Title": "Automated Aquaponic Farm Experiment",
       "Description": "Automated an intelligent, solar-powered, aquaponic farm using 7 Raspberry Pi's attempting to impact world hunger. This code kept 20+ Tilapia alive by keeping chemical levels at equillibrium.",
       "ghLink": "https://github.com/smithwithatypo/EverGreen_code",
       "demoLink": "https://github.com/smithwithatypo/EverGreen_code",
-      "Technologies": ["Python", "Raspberry Pi", "Linux"]
+      "Technologies": ["Python", "Raspberry Pi"]
     }
   ],
 
 
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I'm happy to learn about your work or collaborate on projects that make the world a better place.",
+  "Contact.Content": "I'm happy to connect and learn about your work or collaborate on a project.",
   "Contact.Btn": "Say Hello"
 }
