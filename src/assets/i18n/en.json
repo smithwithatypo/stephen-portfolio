@@ -157,7 +157,7 @@
       "Technologies": ["React", "Vite", "Shadcn", "Tailwind CSS", "Railway"]
     },
     {
-      "Title": "Learn French with AI - Frontend",
+      "Title": "Learn French with AI - Backend",
       "Description": "Simple way to learn French with generative AI.",
       "ghLink": "https://github.com/smithwithatypo/achilles-backend",
       "demoLink": "https://achilles-frontend-production.up.railway.app",
